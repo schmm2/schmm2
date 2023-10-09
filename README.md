@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schmm2
 - 👀 I’m interested in Microsoft 365 Technologies
-- 🌱 I’m currently learning React, GrapQL, Amplify, Babylonjs
+- 🌱 I’m currently learning React, GrapQL, Godot, PowerShell
 - 💞️ I’m looking to collaborate on M365 Tech
 - 📫 hello@martinschmidli.com
 
